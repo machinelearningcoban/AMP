@@ -8,6 +8,16 @@ Tiep H. Vu, Hojjat S. Mousavi, Vishal Monga, " Adaptive matcing pursuit for spar
 # Demo 
 
 Run file `sparse_recovery_demo_pos1.m`.
+**Note:** Since ICR is time consumming, the default code doesn't include ICR. To see ICR result: 
+
+1. Open the above file. 
+
+2. Comment line 98. 
+
+3. Uncomment line 96 and 97. 
+
+4. Run file again. 
+
 
 # Selected Experimental Results 
 
